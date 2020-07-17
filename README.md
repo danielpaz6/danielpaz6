@@ -1,13 +1,14 @@
 # Hi, I'm Daniel 👋 👨‍💻
 
-<img src="https://raw.githubusercontent.com/danielpaz6/danielpaz6/master/gh-header.png" alt="banner of Daniel Paz - Software Engineer">
+<img src="https://raw.githubusercontent.com/danielpaz6/danielpaz6/master/gh-header.png" alt="Banner of Daniel Paz - Software Engineer">
 I'm a software engineer who is passionate about making new and challenging projects, creating technology to elevate people. Some technologies I enjoy working with include ReactJS and NodeJS.
 
 
 ## Find me around the web 🌎:
 - Some projects and UIs that I made <a href="https://danielpaz.me/">My Portfolio</a> 💼
-- My AI gits <a href="t.github.com/danielpaz6">Gists</a> 🔬
-- Computer vision tutorials I made <a href="https://medium.com/@danielpaz601">Medium</a> ✍️
+- You can reach me on <a href="https://www.linkedin.com/in/paz-daniel/">Linkedin</a> 📫
+- Deep Learning implementations <a href="https://gist.github.com/danielpaz6">Gists</a> 🔬
+- Computer Vision tutorials I made <a href="https://medium.com/@danielpaz601">Medium</a> ✍️
 
 
 <!--
