@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋 👨‍💻
 
-<img src="./gh-header.png" alt="banner of Daniel Paz - Software Engineer">
+<img src="https://raw.githubusercontent.com/danielpaz6/danielpaz6/master/gh-header.png" alt="banner of Daniel Paz - Software Engineer">
 I'm a software engineer who is passionate about making new and challenging projects, creating technology to elevate people. Some technologies I enjoy working with include ReactJS and NodeJS.
 
 
