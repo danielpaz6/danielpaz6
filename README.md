@@ -10,6 +10,9 @@ I'm a software engineer who is passionate about making new and challenging proje
 - Deep Learning implementations <a href="https://gist.github.com/danielpaz6">Gists</a> 🔬
 - Computer Vision tutorials I made <a href="https://medium.com/@danielpaz601">Medium</a> ✍️
 
+## Some statistics about my repositories:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielpaz6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **danielpaz6/danielpaz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
