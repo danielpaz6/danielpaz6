@@ -12,7 +12,7 @@ I'm a software engineer who is passionate about making new and challenging proje
 - Computer Vision tutorials I made <a href="https://medium.com/@danielpaz601">Medium</a> ✍️
 
 ## Some statistics about my repositories:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielpaz6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielpaz6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
